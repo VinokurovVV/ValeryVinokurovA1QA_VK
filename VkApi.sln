@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VkApi", "VkApi.csproj", "{52ACD263-448A-4ED5-AD79-74A56FC9C387}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52ACD263-448A-4ED5-AD79-74A56FC9C387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52ACD263-448A-4ED5-AD79-74A56FC9C387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52ACD263-448A-4ED5-AD79-74A56FC9C387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52ACD263-448A-4ED5-AD79-74A56FC9C387}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53EB384E-9620-4684-941E-ABA353B80D0B}
+	EndGlobalSection
+EndGlobal

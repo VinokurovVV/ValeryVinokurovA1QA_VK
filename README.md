@@ -1,0 +1,1 @@
+# ValeryVinokurovA1QA_VKTask
